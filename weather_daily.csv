@@ -1,5 +1,5 @@
 date,avg_temp,min_temp,max_temp,avg_wind,max_wind,precip_sum,precip_symbols,rain,method
-2025-09-15,15.3,15.2,15.4,6.0,8.1,0.0,clearsky_night| cloudy,no rain,actual
+2025-09-15,15.3,15.2,15.4,6.0,8.1,3.0,clearsky_night| cloudy,rain,actual
 2025-09-16,15.6,14.1,17.8,7.0,14.6,8.0,cloudy| fair_day| heavyrainandthunder| lightrain| partlycloudy_day| partlycloudy_night| rain| rainshowers_day| rainshowersandthunder_day,rain,forecast
 2025-09-17,14.7,13.2,16.7,7.0,14.1,4.0,cloudy| fair_day| lightrain| partlycloudy_day| partlycloudy_night,rain,forecast
 2025-09-18,13.6,12.7,15.6,3.0,6.5,0.0,clearsky_night| partlycloudy_night,no rain,forecast

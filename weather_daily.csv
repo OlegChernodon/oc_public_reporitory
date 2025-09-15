@@ -1,17 +1,17 @@
-"date","avg_temp","min_temp","max_temp","avg_wind","max_wind","precip_sum","precip_symbols","rain"
+date,avg_temp,min_temp,max_temp,avg_wind,max_wind,precip_sum,precip_symbols,rain
 2025-09-10,1.0,2.0,3.0,4.0,5.0,6.0,cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain,rain
 2025-09-11,1.0,2.0,3.0,4.0,5.0,6.0,cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain,rain
 2025-09-12,1.0,2.0,3.0,4.0,5.0,6.0,cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain,rain
-2025-09-13,1,2,3,4,5,6,"cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain","rain"
-2025-09-14,1,2,3,4,5,6,"cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain","rain"
-2025-09-15,1,2,3,4,5,6,"cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain","rain"
+2025-09-13,1.0,2.0,3.0,4.0,5.0,6.0,cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain,rain
+2025-09-14,1.0,2.0,3.0,4.0,5.0,6.0,cloudy| partlycloudy_day| partlycloudy_night| rain| lightrain,rain
+2025-09-15,15.7,15.4,16.1,6.0,8.2,0.0,cloudy| fair_night,no rain
 2025-09-16,15.8,14.3,18.7,8.0,21.1,7.0,clearsky_day| cloudy| heavyrain| heavyrainandthunder| lightrain| partlycloudy_day| partlycloudy_night| rainshowersandthunder_day,rain
-2025-09-17,14.7,13.3,17,7,12,3,"cloudy| partlycloudy_night| fair_night| partlycloudy_day| fair_day| rain| lightrain| NA","rain"
-2025-09-18,14,12.4,15.6,2,0,0,"NA","no rain"
-2025-09-19,15.9,14.3,18.8,2,0,0,"NA","no rain"
-2025-09-20,16.8,15.1,19.5,2,0,0,"NA","no rain"
-2025-09-21,17.1,15.3,20.8,2,0,0,"NA","no rain"
-2025-09-22,15.2,13.9,16.2,2,0,0,"NA","no rain"
+2025-09-17,14.7,13.1,16.4,7.0,14.7,4.0,cloudy| fair_night| lightrain| lightrainshowers_day| partlycloudy_day| partlycloudy_night,rain
+2025-09-18,13.4,12.6,15.6,3.0,6.1,0.0,fair_night| partlycloudy_night,no rain
+2025-09-19,16.0,14.3,18.8,2.0,0.0,0.0,,no rain
+2025-09-20,16.8,15.1,19.5,2.0,0.0,0.0,,no rain
+2025-09-21,17.2,15.3,20.8,2.0,0.0,0.0,,no rain
+2025-09-22,15.2,13.9,16.2,2.0,0.0,0.0,,no rain
 2025-09-23,12.8,11.9,14.6,1.0,0.0,0.0,,no rain
 2025-09-24,12.5,11.6,14.1,2.0,0.0,0.0,,no rain
-
+2025-09-25,10.9,9.6,13.3,2.0,0.0,0.0,,no rain

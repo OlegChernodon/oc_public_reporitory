@@ -1,7 +1,4 @@
 time,air_temperature,wind_speed,wind_gust,humidity,precip_min,precip_max,precip,precip_symbols,period,wind_direction_deg,wind_direction,date,method
-2025-09-26 19:00:00+03:00,13.5,3.0,6.6,79.6,0.0,0.0,0.0,partlycloudy_night,night,8.0,N,2025-09-26,forecast
-2025-09-26 20:00:00+03:00,13.5,3.0,6.6,79.6,0.0,0.0,0.0,partlycloudy_night,night,8.0,N,2025-09-26,forecast
-2025-09-26 21:00:00+03:00,13.5,3.0,6.6,79.6,0.0,0.0,0.0,partlycloudy_night,night,8.0,N,2025-09-26,forecast
 2025-09-27 19:00:00+03:00,13.5,3.0,6.6,79.6,0.0,0.0,0.0,partlycloudy_night,night,8.0,N,2025-09-27,forecast
 2025-09-27 20:00:00+03:00,13.4,3.7,7.0,82.7,0.0,0.0,0.0,partlycloudy_night,night,21.0,N,2025-09-27,forecast
 2025-09-27 21:00:00+03:00,13.8,4.0,7.7,83.1,0.0,0.0,0.0,partlycloudy_night,night,39.8,NE,2025-09-27,forecast
@@ -89,4 +86,3 @@ time,air_temperature,wind_speed,wind_gust,humidity,precip_min,precip_max,precip,
 2025-10-07 03:00:00+03:00,9.1,3.5,0.0,88.8,0.0,0.0,0.0,,night,204.6,SW,2025-10-07,forecast
 2025-10-07 09:00:00+03:00,8.5,3.5,0.0,90.1,0.0,0.0,0.0,,day,199.5,S,2025-10-07,forecast
 2025-10-07 15:00:00+03:00,12.7,3.5,0.0,76.2,0.0,0.0,0.0,,day,153.5,SE,2025-10-07,forecast
-

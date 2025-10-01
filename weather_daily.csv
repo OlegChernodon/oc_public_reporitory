@@ -14,11 +14,8 @@ date,avg_temp,min_temp,max_temp,avg_wind,max_wind,precip_sum,humidity,wind_direc
 27/09/2025,13.8,13.8,13.9,6,7.9,0,88.3,339.9,N,cloudy| partlycloudy_night,no rain,actual
 28/09/2025,11.9,10,13.6,6.7,12.5,0,80.2,66.3,NE,clearsky_day| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
 29/09/2025,9.4,5.8,12.1,5.8,10.9,0,69.7,83.6,E,clearsky_day| clearsky_night| fair_day| fair_night,no rain,actual
-30/09/2025,8.4,5.2,10.9,4.3,8.5,0,71.2,87.5,E,clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
+30/09/2025,8.4,5.2,10.9,4.3,8.5,0,71.2,87.5,E,clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
 01/10/2025,9.2,5.3,11.7,3.5,9.6,0,72.9,72.6,E,cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
 02/10/2025,9.5,7.6,10.4,6.5,11.5,0,77,69.2,E,cloudy| partlycloudy_day| partlycloudy_night,no rain,forecast
 03/10/2025,8,4.7,11.3,3.1,8.7,0,81.5,114.9,SE,clearsky_day| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
-04/10/2025,7.8,6,10,1.6,0,0,81.4,156.4,SE,,no rain,forecast
-05/10/2025,9.4,7.9,11.6,1.7,0,0,91.6,173.8,S,,no rain,forecast
-06/10/2025,10.2,8.4,13.6,1.4,0,0,83.7,263,W,,no rain,forecast
-07/10/2025,10.7,8.6,13.3,1.6,0,0,87.1,234.5,SW,,no rain,forecast
+

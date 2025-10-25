@@ -38,10 +38,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2025-10-21,3.9,0.6,8.3,84.7,6.5,12.3,167.0,S,0.0,clearsky_day| clearsky_night| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
 2025-10-22,5.5,2.4,8.8,86.2,7.9,11.9,163.3,S,0.1,cloudy| fair_night| partlycloudy_day| partlycloudy_night,rain,actual
 2025-10-23,7.8,7.1,8.2,95.9,6.6,11.9,161.8,S,3.4,cloudy| lightrain| rain,rain,actual
-2025-10-24,10.4,8.1,12.3,94.1,5.7,9.1,146.9,SE,0.6,cloudy,rain,forecast
-2025-10-25,10.4,8.8,11.5,97.3,4.3,10.5,250.5,W,22.0,cloudy| heavyrain| lightrain| rain,rain,forecast
-2025-10-26,7.6,6.2,8.9,93.1,4.8,8.8,191.8,S,0.0,cloudy| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
-2025-10-27,5.3,3.8,6.7,86.9,1.8,0.0,173.9,S,0.0,,no rain,forecast
-2025-10-28,6.2,4.6,8.2,86.2,1.7,0.0,201.2,S,0.0,,no rain,forecast
-2025-10-29,6.1,4.8,8.8,86.9,1.4,0.0,210.7,SW,0.0,,no rain,forecast
-2025-10-30,6.4,4.9,9.0,89.5,1.4,0.0,247.2,SW,0.0,,no rain,forecast
+2025-10-24,10.4,8.1,12.3,94.1,5.7,9.1,146.9,SE,0.6,cloudy,rain,actual
+2025-10-25,10.2,8.9,11.5,97.3,4.1,9.5,246.0,SW,22.8,cloudy| heavyrain| lightrain| rain,rain,forecast
+2025-10-26,7.7,5.9,9.0,91.4,4.6,8.4,201.0,S,1.8,cloudy| lightrain| partlycloudy_day| partlycloudy_night,rain,forecast
+2025-10-27,5.7,5.0,6.9,93.3,5.9,11.8,167.0,S,0.4,clearsky_night| cloudy| fair_night| partlycloudy_night,rain,forecast
+2025-10-28,6.1,4.7,8.6,86.8,1.4,0.0,200.6,S,0.0,,no rain,forecast
+2025-10-29,5.9,4.1,9.3,87.9,1.5,0.0,240.4,SW,0.0,,no rain,forecast
+2025-10-30,7.0,4.8,9.1,91.9,1.8,0.0,204.0,SW,0.0,,no rain,forecast
+2025-10-31,7.7,6.5,10.0,85.4,1.5,0.0,221.0,SW,0.0,,no rain,forecast

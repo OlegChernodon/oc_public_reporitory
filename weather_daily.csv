@@ -90,10 +90,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2025-12-12,5.3,1.4,8.1,81.3,6.8,12.8,198.8,S,0.5,cloudy| partlycloudy_night,rain,actual
 2025-12-13,-0.3,-1.1,1.2,65.0,5.5,10.1,149.6,SE,4.1,cloudy| lightsnow| partlycloudy_night| sleet| snow,rain,actual
 2025-12-14,1.4,-0.9,5.3,95.8,4.4,9.7,201.5,S,6.1,cloudy| fog| heavyrain| lightsleet| rain| sleet,rain,actual
-2025-12-15,6.3,5.5,7.0,93.2,5.9,12.1,241.4,SW,0.2,cloudy| fog,rain,forecast
-2025-12-16,5.6,3.3,6.8,87.2,5.5,9.0,229.9,SW,0.0,cloudy,no rain,forecast
-2025-12-17,2.0,1.0,3.2,94.4,4.7,7.6,194.7,S,0.0,cloudy,no rain,forecast
-2025-12-18,5.2,3.9,6.1,93.2,1.4,0.0,226.0,SW,0.0,,no rain,forecast
-2025-12-19,4.8,4.3,5.2,90.4,2.0,0.0,197.2,S,0.0,,no rain,forecast
-2025-12-20,4.9,3.8,6.1,91.3,1.7,0.0,204.4,SW,0.0,,no rain,forecast
-2025-12-21,4.8,4.6,5.0,92.8,1.2,0.0,181.4,S,0.0,,no rain,forecast
+2025-12-15,6.3,5.5,7.0,93.2,5.9,12.1,241.4,SW,0.2,cloudy| fog,rain,actual
+2025-12-16,5.5,3.6,7.0,87.7,5.6,9.0,226.8,SW,0.0,cloudy,no rain,forecast
+2025-12-17,2.3,1.4,3.9,93.8,5.5,8.5,194.0,S,0.0,cloudy,no rain,forecast
+2025-12-18,3.7,2.2,6.0,96.4,4.1,6.2,207.8,SW,0.0,cloudy,no rain,forecast
+2025-12-19,5.5,4.9,6.3,90.6,2.1,0.0,199.1,S,0.0,,no rain,forecast
+2025-12-20,6.6,5.9,6.9,91.8,1.7,0.0,214.4,SW,0.0,,no rain,forecast
+2025-12-21,4.8,4.3,5.3,92.6,1.0,0.0,183.5,S,0.0,,no rain,forecast
+2025-12-22,3.8,3.6,4.0,90.7,1.2,0.0,170.0,S,0.0,,no rain,forecast

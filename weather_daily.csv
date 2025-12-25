@@ -99,10 +99,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2025-12-21,6.2,5.0,6.9,82.3,6.3,10.3,289.6,W,0.0,cloudy| partlycloudy_night,no rain,actual
 2025-12-22,4.1,2.8,4.9,84.7,4.2,7.8,236.2,SW,0.9,cloudy,rain,actual
 2025-12-23,-1.8,-3.2,2.4,66.8,6.7,12.8,123.4,SE,0.1,clearsky_day| clearsky_night| cloudy| fair_night| partlycloudy_night,rain,actual
-2025-12-24,-1.0,-3.2,1.0,77.7,4.8,9.3,262.3,W,0.0,cloudy| partlycloudy_night,no rain,forecast
-2025-12-25,2.2,0.4,3.7,92.1,7.0,12.9,260.9,W,0.0,cloudy| fair_night| partlycloudy_night,no rain,forecast
-2025-12-26,5.0,4.0,6.1,89.4,8.4,16.7,325.6,NW,0.0,clearsky_day| cloudy| fair_day| partlycloudy_night,no rain,forecast
-2025-12-27,4.4,3.4,5.6,83.5,2.7,0.0,312.2,NW,0.0,,no rain,forecast
-2025-12-28,3.6,3.1,4.0,72.2,4.3,0.0,333.7,NW,0.0,,no rain,forecast
-2025-12-29,3.4,1.9,4.1,76.0,3.5,0.0,318.4,NW,0.0,,no rain,forecast
-2025-12-30,0.6,0.0,1.2,71.4,2.8,0.0,340.4,N,0.0,,no rain,forecast
+2025-12-24,-1.0,-3.2,1.0,77.7,4.8,9.3,262.3,W,0.0,cloudy| partlycloudy_night,no rain,actual
+2025-12-25,2.2,0.5,4.1,88.6,7.7,14.3,264.2,W,0.0,cloudy| partlycloudy_day| partlycloudy_night,no rain,forecast
+2025-12-26,5.1,4.4,6.2,94.7,6.5,12.0,321.4,NW,0.0,cloudy| partlycloudy_day| partlycloudy_night,no rain,forecast
+2025-12-27,5.6,4.0,6.1,90.7,7.2,15.2,290.7,W,0.0,cloudy,no rain,forecast
+2025-12-28,3.6,3.2,4.2,71.2,5.3,0.0,342.4,N,0.0,,no rain,forecast
+2025-12-29,2.9,0.9,4.2,73.7,3.2,0.0,320.9,NW,0.0,,no rain,forecast
+2025-12-30,0.0,-0.6,0.4,73.4,2.7,0.0,341.0,N,0.0,,no rain,forecast
+2025-12-31,-1.6,-2.2,-1.2,74.2,1.9,0.0,263.8,W,0.0,,no rain,forecast

@@ -105,10 +105,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2025-12-27,4.9,2.6,6.2,84.0,9.5,20.2,300.5,NW,1.5,cloudy| lightrain| lightsleet| partlycloudy_day| sleet,rain,actual
 2025-12-28,2.5,1.8,4.1,66.4,12.6,22.4,325.0,NW,0.3,clearsky_day| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,rain,actual
 2025-12-29,1.2,-0.6,2.7,77.8,7.6,14.8,291.7,W,6.2,cloudy| fair_night| lightrain| lightsleet| lightsnow| lightsnowshowers_night| partlycloudy_day| partlycloudy_night| rain| snow,rain,actual
-2025-12-30,-0.3,-0.9,0.0,65.5,11.7,21.0,154.0,SE,6.3,cloudy| heavysnow| lightsnow| partlycloudy_night| snow,rain,forecast
-2025-12-31,-2.0,-5.4,-0.5,50.7,10.2,17.4,169.0,S,0.8,clearsky_day| clearsky_night| cloudy| fair_night| partlycloudy_night,rain,forecast
-2026-01-01,-5.5,-6.5,-2.6,62.7,6.6,16.7,206.1,SW,0.4,cloudy| fair_night| partlycloudy_night,rain,forecast
-2026-01-02,1.0,0.5,1.6,89.6,2.0,0.0,178.2,S,0.0,,no rain,forecast
-2026-01-03,-0.2,-0.6,0.0,87.7,1.9,0.0,187.1,S,0.0,,no rain,forecast
-2026-01-04,-1.8,-2.2,-1.2,87.0,1.8,0.0,235.8,SW,0.0,,no rain,forecast
-2026-01-05,-2.8,-3.3,-2.3,88.2,1.6,0.0,209.2,SW,0.0,,no rain,forecast
+2025-12-30,-0.3,-0.9,0.0,65.5,11.7,21.0,154.0,SE,6.3,cloudy| heavysnow| lightsnow| partlycloudy_night| snow,rain,actual
+2025-12-31,-2.6,-5.5,-0.5,51.3,9.8,17.7,212.8,SW,0.8,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,rain,forecast
+2026-01-01,-4.2,-5.0,-2.4,71.7,9.0,17.6,198.1,S,6.3,cloudy| heavysnow| lightsnow| snow,rain,forecast
+2026-01-02,0.4,-1.9,1.6,90.6,7.8,15.1,179.9,S,2.5,cloudy| lightsnow| snow,rain,forecast
+2026-01-03,0.0,-0.4,0.3,89.6,1.8,0.0,169.0,S,0.0,,no rain,forecast
+2026-01-04,-1.2,-1.6,-0.9,87.8,1.8,0.0,194.1,S,0.0,,no rain,forecast
+2026-01-05,-2.6,-3.1,-2.1,89.2,1.7,0.0,200.2,S,0.0,,no rain,forecast
+2026-01-06,-2.3,-3.1,-1.2,88.6,2.0,0.0,194.8,S,0.0,,no rain,forecast

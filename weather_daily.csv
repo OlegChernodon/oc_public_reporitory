@@ -108,10 +108,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2025-12-30,-0.3,-0.9,0.0,65.5,11.7,21.0,154.0,SE,6.3,cloudy| heavysnow| lightsnow| partlycloudy_night| snow,rain,actual
 2025-12-31,-2.6,-5.5,-0.5,51.3,9.8,17.7,212.8,SW,0.8,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,rain,actual
 2026-01-01,-4.4,-5.5,-2.3,73.0,9.4,17.8,198.2,S,6.8,cloudy| heavysnow| lightsnow| snow,rain,actual
-2026-01-02,0.1,-1.8,1.0,94.6,6.3,15.0,183.2,S,3.1,cloudy| lightsleet| lightsnow| snow,rain,forecast
-2026-01-03,-0.2,-0.8,0.3,94.3,3.9,8.4,166.5,S,0.6,cloudy,rain,forecast
-2026-01-04,-1.6,-2.3,-0.8,90.2,3.2,6.1,178.1,S,0.6,cloudy,rain,forecast
-2026-01-05,-2.7,-3.0,-2.2,87.0,1.4,0.0,193.4,S,0.0,,no rain,forecast
-2026-01-06,-4.0,-5.1,-3.4,89.6,1.6,0.0,196.1,S,0.0,,no rain,forecast
-2026-01-07,-5.6,-6.6,-4.6,90.8,1.3,0.0,197.1,S,0.0,,no rain,forecast
-2026-01-08,-4.6,-5.5,-3.8,87.8,1.9,0.0,66.6,NE,0.0,,no rain,forecast
+2026-01-02,0.1,-1.8,1.0,94.6,6.3,15.0,183.2,S,3.1,cloudy| lightsleet| lightsnow| snow,rain,actual
+2026-01-03,-0.5,-1.5,0.1,92.4,4.7,8.4,179.2,S,0.6,cloudy,rain,forecast
+2026-01-04,-2.4,-3.7,-1.1,89.3,5.1,8.4,181.8,S,0.1,cloudy| partlycloudy_day| partlycloudy_night,rain,forecast
+2026-01-05,-3.0,-4.3,-2.0,91.8,2.9,5.1,138.8,SE,0.5,cloudy| partlycloudy_night,rain,forecast
+2026-01-06,-3.8,-5.1,-3.2,89.7,1.7,0.0,166.9,S,0.0,,no rain,forecast
+2026-01-07,-5.1,-5.9,-3.9,90.0,1.0,0.0,172.0,S,0.0,,no rain,forecast
+2026-01-08,-5.5,-6.0,-5.1,90.1,1.7,0.0,89.0,E,0.0,,no rain,forecast
+2026-01-09,-6.1,-6.5,-5.5,87.1,2.1,0.0,139.6,SE,0.0,,no rain,forecast

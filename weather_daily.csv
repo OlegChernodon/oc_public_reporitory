@@ -111,10 +111,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-01-02,0.1,-1.8,1.0,94.6,6.3,15.0,183.2,S,3.1,cloudy| lightsleet| lightsnow| snow,rain,actual
 2026-01-03,-0.5,-1.5,0.1,92.4,4.7,8.4,179.2,S,0.6,cloudy,rain,actual
 2026-01-04,-2.5,-3.6,-1.7,88.4,5.6,10.0,182.6,S,0.5,cloudy| fair_night| partlycloudy_day| partlycloudy_night,rain,actual
-2026-01-05,-4.8,-8.3,-2.8,90.7,3.5,6.7,162.8,S,0.0,clearsky_night| cloudy| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
-2026-01-06,-3.0,-3.5,-2.2,87.6,5.1,9.1,154.7,SE,1.3,cloudy| lightsnow| snow,rain,forecast
-2026-01-07,-3.8,-5.6,-2.6,88.9,2.7,5.7,154.0,SE,0.4,cloudy| lightsnow| partlycloudy_day| partlycloudy_night| snow,rain,forecast
-2026-01-08,-5.7,-6.2,-5.2,91.5,1.3,0.0,160.7,S,0.0,,no rain,forecast
-2026-01-09,-7.3,-8.4,-6.3,88.2,1.8,0.0,90.2,E,0.0,,no rain,forecast
-2026-01-10,-9.0,-9.9,-8.5,88.2,1.8,0.0,121.5,SE,0.0,,no rain,forecast
-2026-01-11,-7.3,-8.5,-5.1,87.8,1.5,0.0,175.1,S,0.0,,no rain,forecast
+2026-01-05,-4.8,-8.3,-2.8,90.7,3.5,6.7,162.8,S,0.0,clearsky_night| cloudy| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
+2026-01-06,-3.0,-3.9,-1.8,86.7,5.2,9.5,158.8,S,0.2,cloudy,rain,forecast
+2026-01-07,-3.6,-5.0,-0.9,88.4,3.4,6.7,209.3,SW,0.3,clearsky_day| clearsky_night| cloudy| partlycloudy_day| partlycloudy_night,rain,forecast
+2026-01-08,-5.2,-6.6,-3.5,91.7,2.7,4.8,193.6,S,0.0,clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-01-09,-7.2,-7.7,-6.9,90.2,2.0,0.0,69.0,E,0.0,,no rain,forecast
+2026-01-10,-7.6,-8.2,-7.1,86.3,2.0,0.0,99.8,E,0.0,,no rain,forecast
+2026-01-11,-6.9,-8.0,-5.8,85.4,1.6,0.0,177.6,S,0.0,,no rain,forecast
+2026-01-12,-7.7,-8.5,-6.4,87.7,1.2,0.0,178.3,S,0.0,,no rain,forecast

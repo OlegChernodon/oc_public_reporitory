@@ -143,10 +143,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-02-03,-7.9,-9.1,-5.3,74.1,6.3,12.1,51.2,NE,0.0,clearsky_day| clearsky_night| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
 2026-02-04,-11.9,-13.8,-9.5,83.9,3.8,6.2,101.6,E,0.0,clearsky_day| clearsky_night| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
 2026-02-05,-12.0,-14.4,-9.0,78.9,4.4,6.8,105.0,E,0.0,clearsky_night| cloudy| fair_night| partlycloudy_day,no rain,actual
-2026-02-06,-6.3,-9.2,-4.6,82.3,5.1,8.0,98.5,E,0.0,cloudy,no rain,forecast
-2026-02-07,-5.8,-6.4,-5.1,82.6,6.5,9.9,57.0,NE,0.0,clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day,no rain,forecast
-2026-02-08,-7.2,-9.0,-6.4,84.1,5.5,9.7,52.9,NE,0.0,cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
-2026-02-09,-11.7,-13.5,-8.4,86.0,1.0,0.0,206.8,SW,0.0,,no rain,forecast
-2026-02-10,-12.1,-13.8,-10.0,86.7,1.0,0.0,180.9,S,0.0,,no rain,forecast
-2026-02-11,-10.1,-13.6,-7.6,87.6,0.9,0.0,135.0,SE,0.0,,no rain,forecast
-2026-02-12,-8.6,-9.7,-6.9,87.0,1.7,0.0,77.0,E,0.0,,no rain,forecast
+2026-02-06,-6.3,-9.2,-4.6,82.3,5.1,8.0,98.5,E,0.0,cloudy,no rain,actual
+2026-02-07,-4.9,-6.3,-3.8,82.7,6.8,10.4,59.8,NE,0.0,cloudy| partlycloudy_night,no rain,forecast
+2026-02-08,-6.9,-11.2,-5.1,78.7,5.5,9.6,72.7,E,0.0,clearsky_day| clearsky_night| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-02-09,-11.7,-14.2,-6.2,82.7,2.7,6.0,201.3,S,0.0,clearsky_day| clearsky_night,no rain,forecast
+2026-02-10,-14.0,-16.1,-10.5,86.0,1.0,0.0,181.2,S,0.0,,no rain,forecast
+2026-02-11,-9.6,-13.3,-6.4,87.8,0.8,0.0,137.0,SE,0.0,,no rain,forecast
+2026-02-12,-6.8,-8.4,-5.3,89.4,1.7,0.0,70.3,E,0.0,,no rain,forecast
+2026-02-13,-7.0,-7.6,-6.0,87.1,1.9,0.0,65.2,NE,0.0,,no rain,forecast

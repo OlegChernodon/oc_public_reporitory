@@ -185,10 +185,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-03-17,2.2,0.5,4.5,98.3,1.6,3.8,165.5,S,0.0,cloudy| fog,no rain,actual
 2026-03-18,2.6,-0.1,6.8,91.8,2.1,4.5,215.1,SW,0.0,cloudy| fog| partlycloudy_day| partlycloudy_night,no rain,actual
 2026-03-19,1.9,-0.8,5.3,91.7,4.1,8.3,246.3,SW,2.7,cloudy| fair_night| lightrain| partlycloudy_day| partlycloudy_night| rain,rain,actual
-2026-03-20,3.1,-0.2,7.1,86.1,4.1,8.2,240.7,SW,0.0,clearsky_day| clearsky_night| fog| partlycloudy_day,no rain,forecast
-2026-03-21,3.4,-1.7,9.3,84.8,2.3,5.4,200.9,S,0.0,clearsky_day| clearsky_night| fair_night,no rain,forecast
-2026-03-22,3.5,-0.2,10.9,82.9,3.1,7.1,220.6,SW,0.0,clearsky_day| clearsky_night| fair_day| fair_night,no rain,forecast
-2026-03-23,5.3,1.4,10.6,70.4,1.7,0.0,221.5,SW,0.0,,no rain,forecast
-2026-03-24,4.6,1.9,9.3,76.8,1.7,0.0,236.4,SW,0.0,,no rain,forecast
-2026-03-25,6.2,4.5,8.9,78.0,2.0,0.0,191.2,S,0.0,,no rain,forecast
-2026-03-26,6.2,4.8,9.1,76.8,1.7,0.0,150.2,SE,0.0,,no rain,forecast
+2026-03-20,3.1,-0.2,7.1,86.1,4.1,8.2,240.7,SW,0.0,clearsky_day| clearsky_night| fog| partlycloudy_day,no rain,actual
+2026-03-21,3.4,-2.6,9.7,82.4,2.7,6.4,209.8,SW,0.0,clearsky_day| clearsky_night| fair_day| fair_night| partlycloudy_night,no rain,forecast
+2026-03-22,4.5,0.0,10.3,82.4,3.7,7.7,222.6,SW,0.0,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-03-23,4.2,0.3,10.6,81.8,3.7,9.0,213.4,SW,0.0,clearsky_night| cloudy| fair_day| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-03-24,4.4,1.6,9.0,73.5,1.6,0.0,236.4,SW,0.0,,no rain,forecast
+2026-03-25,6.8,4.2,10.0,71.6,2.2,0.0,180.4,S,0.0,,no rain,forecast
+2026-03-26,6.4,5.1,9.2,77.6,1.7,0.0,164.3,S,0.0,,no rain,forecast
+2026-03-27,3.8,2.7,6.1,83.4,1.0,0.0,171.4,S,0.0,,no rain,forecast

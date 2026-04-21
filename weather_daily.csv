@@ -216,10 +216,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-04-17,7.6,5.6,11.0,87.6,5.6,10.9,273.4,W,0.1,clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day,rain,actual
 2026-04-18,7.5,3.2,11.7,75.3,2.7,6.2,198.4,S,0.0,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
 2026-04-19,6.2,4.5,7.9,71.9,6.6,12.9,66.0,NE,0.0,clearsky_day| clearsky_night| cloudy| fair_day| partlycloudy_day| partlycloudy_night,no rain,actual
-2026-04-20,6.5,4.1,8.7,59.1,8.0,14.2,48.0,NE,0.0,clearsky_day| clearsky_night,no rain,forecast
-2026-04-21,8.2,5.2,11.5,57.6,6.3,12.0,86.6,E,0.0,clearsky_day| clearsky_night,no rain,forecast
-2026-04-22,6.9,1.6,14.6,76.8,4.4,11.9,286.6,W,0.0,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
-2026-04-23,5.6,5.0,6.5,69.2,3.1,0.0,338.7,N,0.0,,no rain,forecast
-2026-04-24,5.3,1.8,8.2,76.7,1.8,0.0,305.0,NW,0.0,,no rain,forecast
-2026-04-25,4.0,2.7,5.3,78.7,2.0,0.0,324.5,NW,0.0,,no rain,forecast
-2026-04-26,3.3,0.9,5.6,71.3,1.9,0.0,322.0,NW,0.0,,no rain,forecast
+2026-04-20,6.5,4.1,8.7,59.1,8.0,14.2,48.0,NE,0.0,clearsky_day| clearsky_night,no rain,actual
+2026-04-21,8.0,5.2,11.6,58.4,5.6,12.0,89.2,E,0.0,clearsky_day| clearsky_night| fair_day| fair_night| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-04-22,7.7,1.9,15.2,70.2,6.2,14.1,294.8,NW,0.0,clearsky_day| clearsky_night| cloudy| fair_day| fair_night| fog| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-04-23,6.8,5.7,9.6,65.6,8.8,14.3,237.3,SW,0.0,clearsky_day| clearsky_night| fair_day| fair_night,no rain,forecast
+2026-04-24,6.5,2.6,9.8,74.1,1.9,0.0,308.2,NW,0.0,,no rain,forecast
+2026-04-25,4.8,2.5,7.0,81.2,2.0,0.0,275.6,W,0.0,,no rain,forecast
+2026-04-26,3.6,1.1,6.0,68.8,2.4,0.0,321.7,NW,0.0,,no rain,forecast
+2026-04-27,4.1,1.1,7.3,67.1,2.0,0.0,318.3,NW,0.0,,no rain,forecast

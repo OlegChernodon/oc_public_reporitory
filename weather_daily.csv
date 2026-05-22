@@ -242,12 +242,16 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-05-13,8.4,5.9,9.3,91.3,4.1,8.1,238.4,SW,6.1,cloudy| lightrain| rain,rain,actual
 2026-05-14,11.2,5.5,16.5,76.4,6.2,16.2,180.2,S,3.0,cloudy| fair_day| heavyrainshowers_day| partlycloudy_day| partlycloudy_night,rain,actual
 2026-05-15,11.9,7.9,17.4,85.3,2.9,6.7,132.9,SE,0.0,clearsky_day| clearsky_night| cloudy| fair_day| fog| partlycloudy_night,no rain,actual
-2026-05-16,13.5,11.1,16.5,80.8,1.3,0.0,186.2,S,0.0,,no rain,actual
-2026-05-17,10.4,8.2,12.6,88.6,0.9,0.0,253.6,W,0.0,,no rain,actual
-2026-05-18,10.3,8.4,11.3,89.2,7.5,13.1,136.0,SE,21.4,cloudy| heavyrain| lightrainandthunder| partlycloudy_day| rain,rain,forecast
-2026-05-19,12.3,10.0,15.1,95.6,4.2,12.3,248.0,W,5.7,cloudy| lightrain| lightrainandthunder,rain,forecast
-2026-05-20,11.9,10.0,14.4,85.1,2.9,5.6,208.6,SW,0.0,cloudy,no rain,forecast
-2026-05-21,12.9,8.8,15.6,81.4,0.7,0.0,269.6,W,0.0,,no rain,forecast
-2026-05-22,13.6,9.9,16.1,83.8,1.1,0.0,216.3,SW,0.0,,no rain,forecast
-2026-05-23,14.1,10.0,16.7,84.6,1.1,0.0,237.5,SW,0.0,,no rain,forecast
-2026-05-24,15.0,10.8,17.6,82.5,1.0,0.0,226.7,SW,0.0,,no rain,forecast
+2026-05-16,13.5,11.1,16.5,80.8,1.3,0.0,186.2,S,0.0,nan,no rain,actual
+2026-05-17,10.4,8.2,12.6,88.6,0.9,0.0,253.6,W,0.0,nan,no rain,actual
+2026-05-18,10.3,8.4,11.3,89.2,7.5,13.1,136.0,SE,21.4,cloudy| heavyrain| lightrainandthunder| partlycloudy_day| rain,rain,actual
+2026-05-19,12.3,10.0,15.1,95.6,4.2,12.3,248.0,W,5.7,cloudy| lightrain| lightrainandthunder,rain,actual
+2026-05-20,11.9,10.0,14.4,85.1,2.9,5.6,208.6,SW,0.0,cloudy,no rain,actual
+2026-05-21,12.9,8.8,15.6,81.4,0.7,0.0,269.6,W,0.0,,no rain,actual
+2026-05-22,14.8,9.9,17.2,77.0,4.8,8.5,269.4,W,0.0,clearsky_night| cloudy| fair_day| partlycloudy_day,no rain,forecast
+2026-05-23,17.0,10.9,22.8,71.8,5.5,8.5,257.7,W,0.0,clearsky_day| fair_day| fair_night| partlycloudy_night,no rain,forecast
+2026-05-24,16.8,14.6,20.1,76.0,6.1,9.8,262.8,W,0.4,clearsky_day| cloudy| fair_day| partlycloudy_day| partlycloudy_night,rain,forecast
+2026-05-25,15.3,12.3,18.1,72.7,1.9,0.0,271.4,W,0.0,,no rain,forecast
+2026-05-26,14.4,12.8,16.2,76.2,1.8,0.0,294.4,NW,0.0,,no rain,forecast
+2026-05-27,11.4,8.8,13.5,77.6,2.9,0.0,317.5,NW,0.0,,no rain,forecast
+2026-05-28,11.3,8.6,13.9,70.2,2.3,0.0,322.6,NW,0.0,,no rain,forecast

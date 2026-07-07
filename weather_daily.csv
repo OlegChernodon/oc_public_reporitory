@@ -292,10 +292,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-07-03,20.1,17.1,22.9,79.4,1.9,0.0,241.6,SW,0.0,nan,no rain,actual
 2026-07-04,17.7,15.4,22.4,87.5,6.1,13.0,278.8,W,2.2,cloudy| lightrain| rain,rain,actual
 2026-07-05,18.1,14.8,22.0,75.9,6.7,13.1,279.7,W,6.6,clearsky_day| cloudy| fair_day| partlycloudy_day| partlycloudy_night| rainandthunder,rain,actual
-2026-07-06,16.2,13.8,19.3,73.3,6.3,11.4,263.7,W,5.7,clearsky_day| cloudy| fair_day| partlycloudy_day| partlycloudy_night| rain,rain,forecast
-2026-07-07,15.7,11.9,19.5,76.2,4.9,13.7,204.8,SW,8.2,clearsky_day| cloudy| fair_day| heavyrain| lightrain| partlycloudy_day| partlycloudy_night| rain,rain,forecast
-2026-07-08,14.6,13.3,16.7,83.3,4.0,9.5,163.4,S,14.5,cloudy| fair_day| heavyrain| lightrain| lightrainshowers_day| partlycloudy_day,rain,forecast
-2026-07-09,16.6,15.4,17.6,85.6,2.6,0.0,343.1,N,0.0,,no rain,forecast
-2026-07-10,18.2,16.2,19.7,87.9,1.6,0.0,183.7,S,0.0,,no rain,forecast
-2026-07-11,20.4,18.1,22.4,87.9,1.5,0.0,185.5,S,0.0,,no rain,forecast
-2026-07-12,22.1,20.4,23.8,84.2,1.8,0.0,342.8,N,0.0,,no rain,forecast
+2026-07-06,16.2,13.8,19.3,73.3,6.3,11.4,263.7,W,5.7,clearsky_day| cloudy| fair_day| partlycloudy_day| partlycloudy_night| rain,rain,actual
+2026-07-07,15.1,11.9,19.9,83.0,5.1,13.7,211.0,SW,12.7,clearsky_day| cloudy| fair_day| heavyrain| partlycloudy_day| partlycloudy_night| rain,rain,forecast
+2026-07-08,14.2,12.2,15.7,89.6,5.3,15.7,214.1,SW,39.8,clearsky_day| cloudy| fair_day| heavyrain| lightrain| partlycloudy_night| rain,rain,forecast
+2026-07-09,14.8,13.3,17.0,87.3,9.5,21.7,171.7,S,28.3,cloudy| heavyrain| lightrain| rain| rainshowers_day,rain,forecast
+2026-07-10,17.2,15.2,18.7,88.2,1.5,0.0,29.4,NE,0.0,,no rain,forecast
+2026-07-11,19.0,16.8,20.6,88.6,1.3,0.0,192.2,S,0.0,,no rain,forecast
+2026-07-12,20.6,18.3,22.3,89.0,1.9,0.0,337.3,NW,0.0,,no rain,forecast
+2026-07-13,20.6,19.4,21.8,89.6,2.0,0.0,337.5,N,0.0,,no rain,forecast

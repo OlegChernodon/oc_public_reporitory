@@ -361,10 +361,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-09-10,14.9,11.9,17.3,84.2,6.7,14.4,217.2,SW,8.8,clearsky_night| cloudy| heavyrain| lightrain| lightrainandthunder| lightrainshowers_day| partlycloudy_day| partlycloudy_night| rain,rain,actual
 2026-09-11,14.8,11.9,18.6,76.8,5.4,9.3,266.6,W,0.1,clearsky_day| cloudy| fair_day| fair_night| partlycloudy_day| partlycloudy_night,rain,actual
 2026-09-12,14.1,11.4,17.6,85.1,3.4,5.9,229.0,SW,0.0,cloudy| fair_night| partlycloudy_day| partlycloudy_night,no rain,actual
-2026-09-13,13.3,11.2,16.3,93.4,4.0,7.1,208.1,SW,2.3,cloudy| fair_night| lightrain| partlycloudy_night| rain,rain,forecast
-2026-09-14,14.6,12.6,15.8,93.6,3.4,7.3,210.3,SW,1.2,cloudy| lightrain| partlycloudy_day| partlycloudy_night,rain,forecast
-2026-09-15,13.6,11.3,17.8,83.5,2.3,5.9,245.3,SW,0.0,cloudy| fair_day| partlycloudy_day| partlycloudy_night,no rain,forecast
-2026-09-16,15.0,12.2,18.7,80.9,1.7,0.0,194.5,S,0.0,,no rain,forecast
-2026-09-17,14.8,13.0,17.9,85.7,1.7,0.0,230.6,SW,0.0,,no rain,forecast
-2026-09-18,14.0,11.4,18.0,79.6,1.8,0.0,204.0,SW,0.0,,no rain,forecast
-2026-09-19,14.1,12.7,17.6,84.8,1.8,0.0,207.6,SW,0.0,,no rain,forecast
+2026-09-13,13.3,11.2,16.3,93.4,4.0,7.1,208.1,SW,2.3,cloudy| fair_night| lightrain| partlycloudy_night| rain,rain,actual
+2026-09-14,14.7,12.5,16.4,94.1,3.0,6.9,184.4,S,1.2,cloudy| fair_night| lightrain| partlycloudy_day| partlycloudy_night,rain,forecast
+2026-09-15,14.0,10.2,17.9,87.5,2.2,5.5,211.8,SW,0.0,cloudy| fair_day| partlycloudy_day| partlycloudy_night,no rain,forecast
+2026-09-16,14.8,12.7,18.7,88.3,4.4,10.3,188.8,S,0.0,cloudy,no rain,forecast
+2026-09-17,14.8,13.1,17.9,82.4,1.7,0.0,240.0,SW,0.0,,no rain,forecast
+2026-09-18,13.9,11.1,17.8,78.8,1.8,0.0,206.8,SW,0.0,,no rain,forecast
+2026-09-19,14.8,13.1,18.3,79.6,1.9,0.0,217.6,SW,0.0,,no rain,forecast
+2026-09-20,14.8,13.3,18.0,84.2,2.0,0.0,227.3,SW,0.0,,no rain,forecast

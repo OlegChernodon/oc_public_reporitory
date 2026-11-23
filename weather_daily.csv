@@ -431,10 +431,11 @@ date,avg_temp,min_temp,max_temp,humidity,avg_wind,max_wind,wind_direction_deg,wi
 2026-11-19,5.6,4.0,7.0,94.9,5.1,10.0,194.2,S,0.9,cloudy| lightrain| partlycloudy_day| partlycloudy_night,rain,actual
 2026-11-20,3.9,1.1,5.4,92.3,4.9,9.7,217.9,SW,5.9,cloudy| fair_night| heavyrain| lightrain| partlycloudy_day| partlycloudy_night| rain,rain,actual
 2026-11-21,2.4,1.1,2.9,95.7,7.2,12.4,225.5,SW,5.2,cloudy| lightrain| lightsleet| partlycloudy_night| rain,rain,actual
-2026-11-22,2.4,1.4,3.3,95.7,6.2,10.5,263.7,W,7.2,cloudy| lightrain| lightsleet,rain,forecast
-2026-11-23,2.8,1.8,3.5,90.7,6.3,12.9,174.1,S,5.9,cloudy| lightrain| lightsleet| partlycloudy_night,rain,forecast
-2026-11-24,3.5,3.3,3.6,88.0,9.6,14.7,22.2,N,5.3,cloudy| lightrain| lightsleet,rain,forecast
-2026-11-25,2.8,2.5,3.4,76.8,1.8,0.0,25.3,NE,0.0,,no rain,forecast
-2026-11-26,2.4,1.7,3.2,73.4,1.6,0.0,180.2,S,0.0,,no rain,forecast
-2026-11-27,0.5,-0.2,1.1,73.4,1.1,0.0,124.6,SE,0.0,,no rain,forecast
-2026-11-28,-1.4,-2.4,-0.9,79.0,0.9,0.0,131.5,SE,0.0,,no rain,forecast
+2026-11-22,2.4,1.4,3.3,95.7,6.2,10.5,263.7,W,7.2,cloudy| lightrain| lightsleet,rain,actual
+2026-11-23,2.7,1.8,3.6,90.1,6.8,13.8,163.0,S,6.1,cloudy| lightrain| lightsleet| partlycloudy_night| sleet,rain,forecast
+2026-11-24,3.8,3.4,4.0,84.1,9.7,14.5,17.8,N,3.4,cloudy| lightrain,rain,forecast
+2026-11-25,2.9,2.0,3.7,81.9,6.8,12.8,105.5,E,2.5,cloudy| fog| lightsleet| partlycloudy_day,rain,forecast
+2026-11-26,2.4,1.9,3.3,74.0,1.5,0.0,180.2,S,0.0,,no rain,forecast
+2026-11-27,0.9,0.3,1.7,69.8,1.1,0.0,20.5,N,0.0,,no rain,forecast
+2026-11-28,-0.2,-0.8,0.8,80.4,0.8,0.0,212.2,SW,0.0,,no rain,forecast
+2026-11-29,-2.0,-2.5,-1.1,77.8,1.4,0.0,202.5,S,0.0,,no rain,forecast
